@@ -2,7 +2,7 @@
 
 ### 🌱 Junior Front-End Dev & Web-Designer
 💬 Кодил с 13, рисовал интерфейсы с 14 лет, сайты с 16, боюсь что дальше будет только хуже... <br>
-⚡ Python, React, Three.js & Lua
+⚡ Python, React, Three.js & Lua (по праздникам)
 
 ---
 
@@ -14,18 +14,13 @@
 
 ---
 
-## 💻 Мой стек:
+## 💻 Стек:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Three.js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) 
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
-
----
-
-### 🛠 Кратко:
-Я рисую макеты. А что? Этого мало? Люблю когда красиво, аккуратно и минималистично.
 
 ---
 [![](https://visitcount.itsvg.in/api?id=h4root&icon=5&color=3)](https://visitcount.itsvg.in)
